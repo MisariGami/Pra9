@@ -1,5 +1,5 @@
 # 20CE029 Misari Gami
-# GitHub repository link : 
+# GitHub repository link : https://github.com/MisariGami/Pra9/blob/main/20CE029_Pra9.py
 
 # Consider an example of declaring the examination result. Design three classes: Student, Exam, and Result. The Student class has data members such as those representing rollNumber, Name, etc. Create the class Exam by inheriting Student class. The Exam class adds fields representing the marks scored in six subjects. Derive Result from the Exam class, and it has its own fields such as total_marks. Write an interactive program to model this relationship.
 
